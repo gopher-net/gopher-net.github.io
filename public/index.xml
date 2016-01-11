@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Gophers</title>
+    <link>http://gopher-net.github.io/</link>
+    <description>Recent content on Network Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2016 13:27:29 +0000</lastBuildDate>
+    <atom:link href="http://gopher-net.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sample Tutorial</title>
+      <link>http://gopher-net.github.io/tutorials/sample/</link>
+      <pubDate>Mon, 11 Jan 2016 13:27:29 +0000</pubDate>
+      
+      <guid>http://gopher-net.github.io/tutorials/sample/</guid>
+      <description>
+
+&lt;p&gt;This is a sample tutorial
+We could do something cool with metadata here to show neat icons for time, skill level etc&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;pre-reqs:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Pre-reqs&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A computer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;steps:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Steps&lt;/h2&gt;
+
+&lt;h3 id=&#34;step-1-do-the-thing:7cce010dc015a937e6841b4e289c7b7d&#34;&gt;Step 1 - Do the thing&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;$ echo &amp;quot;hello world&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://gopher-net.github.io/about/</link>
+      <pubDate>Mon, 11 Jan 2016 13:27:19 +0000</pubDate>
+      
+      <guid>http://gopher-net.github.io/about/</guid>
+      <description>&lt;p&gt;The Network Gopher community was founded in 2015 by a bunch of likeminded individuals that thought the following things were cool&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Networking&lt;/li&gt;
+&lt;li&gt;Writing Code in Go&lt;/li&gt;
+&lt;li&gt;Automation&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+baseurl = "http://gopher-net.github.io/"
+languageCode = "en-us"
+title = "Network Gophers"
+contentdir = "content"
+layoutdir = "layouts"
+canonifyurl =  true
+
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0d"
