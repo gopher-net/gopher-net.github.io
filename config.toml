@@ -5,8 +5,14 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "."
 canonifyurl =  true
-
 theme = "hyde"
 
 [params]
-  themeColor = "theme-base-0d"
+    description = "Your guide to Golang, Networking and Automation" 
+    copyright = "2015-2016, CC-BY-SA 4.0"
+    themeColor = "theme-base-0d"
+
+[[menu.main]]
+    name = "Tutorials"
+    identifier = "tutorials"
+    url = "/tutorials/"
