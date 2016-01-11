@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Network Gophers</title>
+    <link>http://gopher-net.github.io/tags/development/</link>
+    <description>Recent content in Development on Network Gophers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2016 15:12:14 +0000</lastBuildDate>
+    <atom:link href="http://gopher-net.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>docker plugins</title>
+      <link>http://gopher-net.github.io/projects/docker-plugins/</link>
+      <pubDate>Mon, 11 Jan 2016 15:12:14 +0000</pubDate>
+      
+      <guid>http://gopher-net.github.io/projects/docker-plugins/</guid>
+      <description>
+
+&lt;h2 id=&#34;ipvlan-plugin:8b534e7c46f2b15f0ba8f0468f96a67a&#34;&gt;IPVLAN Plugin&lt;/h2&gt;
+
+&lt;h2 id=&#34;macvlan-plugin:8b534e7c46f2b15f0ba8f0468f96a67a&#34;&gt;MACVLAN Plugin&lt;/h2&gt;
+
+&lt;h2 id=&#34;open-vswitch-plugin:8b534e7c46f2b15f0ba8f0468f96a67a&#34;&gt;Open vSwitch Plugin&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>http://gopher-net.github.io/blog/first-post/</link>
+      <pubDate>Mon, 11 Jan 2016 15:11:19 +0000</pubDate>
+      
+      <guid>http://gopher-net.github.io/blog/first-post/</guid>
+      <description>&lt;p&gt;A blog post about things&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

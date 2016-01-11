@@ -13,6 +13,14 @@ theme = "hyde"
     themeColor = "theme-base-0d"
 
 [[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    url = "/projects/"
+[[menu.main]]
     name = "Tutorials"
     identifier = "tutorials"
     url = "/tutorials/"
